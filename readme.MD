@@ -1,3 +1,4 @@
+Assignment for COMP 3005 A3 - Momo Radaideh 101292701
 This is a simple JavaScript program that interacts with a PostgreSQL server.<br> It utilizes multiple Node.js models to interact with PostgreSQL within a single package.<br>
 It uses async functions to properly interact with the database.<br>
 
